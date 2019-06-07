@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Schedroid</string>
+    <string name="schedroid">Schedroid</string>
+    <string name="login">Login</string>
+    <string name="sign_up">
+        <u>Sign Up</u>
+    </string>
+    <string name="password">Password:</string>
+    <string name="username">Username:</string>
+    <string name="please_enter_your_username">Please enter your username</string>
+    <string name="please_enter_your_password">Please enter your password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_enter_your_full_name">Please enter your full name</string>
+    <string name="please_enter_your_phone_number">Please enter your phone number</string>
+    <string name="add_new_event">Add New Event</string>
+    <string name="schedule_for_day">Schedule for day</string>
+    <string name="please_enter_a_title">Please enter a title</string>
+    <string name="please_enter_event_description">Please enter event description</string>
+    <string name="location">Location :</string>
+    <string name="description">Description :</string>
+    <string name="title">Title :</string>
+    <string name="add_a_new_event">Add a New Event :</string>
+    <string name="enter_y_n">Enter Y/N</string>
+    <string name="time">Time :</string>
+    <string name="please_enter_the_time_xx_xx">Please enter the time(xx:xx)</string>
+    <string name="click_to_open_the_map">Click to open the map</string>
+    <string name="is_it_a_daily_activity">Is it a daily activity?</string>
+    <string name="ok">OK!</string>
+    <string name="create">Create!</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
